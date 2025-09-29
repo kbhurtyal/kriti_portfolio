@@ -20,7 +20,7 @@ const Header: React.FC = () => {
   };
 
   const handleLinkedInClick = () => {
-    window.open('https://linkedin.com/in/kriti', '_blank');
+    window.open('https://www.linkedin.com/in/kriti-bhurtyal-55b049377/', '_blank');
   };
 
   return (
